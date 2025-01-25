@@ -2,47 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4601/docs/</loc>
-    <lastmod>2025-01-24T20:35:01+08:00</lastmod>
+    <loc>http://localhost:6667/docs/starter/</loc>
+    <lastmod>2025-01-24T21:17:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:4601/</loc>
-    <lastmod>2025-01-24T20:35:01+08:00</lastmod>
+    <loc>http://localhost:6667/categories/</loc>
+    <lastmod>2025-01-24T21:17:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4601/en/"
+                href="http://localhost:6667/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:4601/"
+                href="http://localhost:6667/categories/"
                 />
   </url><url>
-    <loc>http://localhost:4601/categories/</loc>
+    <loc>http://localhost:6667/docs/</loc>
+    <lastmod>2025-01-24T21:17:53+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:6667/tags/github/</loc>
+    <lastmod>2025-01-24T21:17:53+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:6667/tags/seven/</loc>
+    <lastmod>2025-01-24T21:17:53+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:6667/</loc>
+    <lastmod>2025-01-24T21:17:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4601/en/categories/"
+                href="http://localhost:6667/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:4601/categories/"
+                href="http://localhost:6667/"
                 />
   </url><url>
-    <loc>http://localhost:4601/posts/</loc>
-    <lastmod>2025-01-24T20:19:27+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4601/tags/</loc>
+    <loc>http://localhost:6667/tags/</loc>
+    <lastmod>2025-01-24T21:17:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4601/en/tags/"
+                href="http://localhost:6667/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:4601/tags/"
+                href="http://localhost:6667/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:6667/tags/%E4%BD%93%E9%AA%8C/</loc>
+    <lastmod>2025-01-24T21:17:53+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:6667/categories/%E6%96%87%E6%A1%A3/</loc>
+    <lastmod>2025-01-24T21:17:53+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:6667/posts/</loc>
+    <lastmod>2025-01-24T21:17:53+08:00</lastmod>
   </url>
 </urlset>
