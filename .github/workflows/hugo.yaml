@@ -23,6 +23,9 @@ jobs:
           # 是否启用 hugo extend
           extended: true
 
+      - name: Install Dependencies
+        run: npm install
+
       - name: Build
         run: hugo --minify
 
